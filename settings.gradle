@@ -1,0 +1,3 @@
+include ':DJCommon'
+include ':app'
+rootProject.name = "DJSoft"
